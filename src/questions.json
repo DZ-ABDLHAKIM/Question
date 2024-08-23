@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "question": "What is the purpose of `use strict` in JavaScript?",
+    "options": [
+      "Question 1",
+      "Question 1",
+      "Question 1",
+      "Question 1",
+      "reduces the execution time of JavaScript code"
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": "2",
+    "question": "What 2",
+    "options": ["Question 2", "Question 2", "Question 2"],
+    "correctOption": 1
+  },
+  {
+    "id": "3",
+    "question": "What 3",
+    "options": [
+      "Question 3",
+      "Question 3",
+      "Question 3",
+      "Question 3",
+      "reduces the execution time of JavaScript code reduces the execution time of JavaScript code"
+    ],
+    "correctOption": 4
+  },
+  {
+    "id": "4",
+    "question": "What 4",
+    "options": ["Question 4", "Question 4"],
+    "correctOption": 3
+  }
+]
